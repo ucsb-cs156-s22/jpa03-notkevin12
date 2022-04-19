@@ -1,5 +1,7 @@
 # demo-spring-react-example-v2: dsre-v2
 
+Repo link: <https://github.com/ucsb-cs156-s22/jpa03-notkevin12>
+
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-notkevin12-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-notkevin12-docs-qa/>
